@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>CFOP</title>
+    </head>
+    <body>
+        <h1>CFOP Algorithms</h1>
+
+        <b>CFOP</b> Algorithms
+
+        <p>No digas toilet no digas toilet no digas digas no toilet digas no toilet toilet.
+             No digas toilet no toilet toilet no digas digas no toilet digas no toilet digas no
+              <u>who let the doggsss outtt <br><br></u>toilet digas. No digas digas <i>los pengionos me la van a mascar</i>no toilet toilet no toilet toilet no digas digas
+               no toilet toilet. <br><br><br>
+          hiiiii <br> <br>
+
+          <b>no digas toilet</b>  <hr> 
+          <br><br><strong>whats goodie my gang</strong>  
+          <br><br><br> cotton eye joe
+          <a href="https://www.google.com"target="_blank">CLICK MEE</a>
+
+          <br><br><img src="f2l.jpg">
+
+          <ul>
+<li>
+    apples
+        </li> <ul>
+            <li>no</li>
+            <li>digas</li>
+            <li>toilet</li>
+        </ul>
+<li>oranges</li>
+</ul>
+
+<table border="10" cellpadding="10" cellspacing="1">
+    
+    <tr>
+        <th>season</th>
+         <th>month</th>
+         <th colspan="2">rent</th>
+         <th>toilet</th>   
+         <th>poopy head</th>
+    </tr>
+    
+    <td rowspan="3">Fall</td>
+            <td>june </td>
+            <td>15,000</td>
+            <td>500</td>
+            <td>a lot</td>
+            <td>yup</td>
+    </tr>
+    <tr>
+        <td>july </td>
+        <td>15,000</td>
+        <td>500</td>
+        <td>a lot</td>
+        <td>yup</td>
+</tr><tr>
+    <td>august </td>
+    <td>15,000</td>
+    <td>500</td>
+    <td>a lot</td>
+    <td>yup</td>
+</tr>
+</table>
+    </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
